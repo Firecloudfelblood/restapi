@@ -1,0 +1,10 @@
+{
+  "require": {
+    "vlucas/phpdotenv": "^v2.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  }
+}
